@@ -6,6 +6,23 @@ const asyncHandler = (requestHandler) => {
 
 export {asyncHandler}
 
+
+// This code defines an asyncHandler function that wraps asynchronous request handlers in Express.js to simplify error handling.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 // using try catch
 // const asyncHandler = () => {}
 // const asyncHandler = () => {() => {}}
